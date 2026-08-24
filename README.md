@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a final-year **Systems and Computing Engineering** student at **Universidad de los Andes** (Bogotá, Colombia), with an emphasis in **machine learning**.
+I'm a final-year **Systems and Computing Engineering** student at **Universidad de los Andes** (Bogotá, Colombia), with an emphasis in machine learning and AI development.
 
 My work sits where applied AI meets real users: I build, deploy, and evaluate systems that have to hold up outside a notebook. I'm currently developing my undergraduate thesis in collaboration with the Faculty of Medicine and Health Sciences, and I'm part of the **SinfonIA** initiative.
 
