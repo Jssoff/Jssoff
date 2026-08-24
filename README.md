@@ -64,6 +64,7 @@ My work sits where applied AI meets real users: I build, deploy, and evaluate sy
 
 ---
 
+
 ## Current Focus
 
 * Designing evaluation methodologies for LLM-based clinical simulation
@@ -86,6 +87,6 @@ My work sits where applied AI meets real users: I build, deploy, and evaluate sy
 ## Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/jessica-garay-023495285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jessica-garay-023495285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:js.garay@uniandes.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
