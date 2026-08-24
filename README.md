@@ -74,14 +74,6 @@ My work sits where applied AI meets real users: I build, deploy, and evaluate sy
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jssoff&show_icons=true&theme=dracula&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jssoff&layout=compact&theme=dracula&hide_border=true" height="160" />
-</p>
-
----
 
 ## Let's Connect
 
