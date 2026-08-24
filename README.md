@@ -64,7 +64,6 @@ My work sits where applied AI meets real users: I build, deploy, and evaluate sy
 
 ---
 
-
 ## Current Focus
 
 * Designing evaluation methodologies for LLM-based clinical simulation
